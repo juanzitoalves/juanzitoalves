@@ -1,7 +1,7 @@
 ### Olá, eu sou o Juan Lucena
 
 - 💻 Cursando Ciência da Computação
-- 🌱 Estudando I.A - Machine Learning 
+- 🌱 Estudando React 
 - 👀 Veja os meus projetos!
 
 
